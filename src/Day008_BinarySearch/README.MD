@@ -6,4 +6,3 @@ Link: [https://medium.com/100-days-of-algorithms/day-8-binary-search-842f3b70055
 NIL
 
 ## References
-NIL
